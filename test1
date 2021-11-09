@@ -1,0 +1,8 @@
+public class main {
+    public static void main(String[] args){
+        String group = "IS41R";
+        int number = 20;
+
+        System.out.printf("В группе", group, number, "учащихся");
+    }
+}
